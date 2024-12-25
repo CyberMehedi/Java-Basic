@@ -13,8 +13,4 @@ number = input.nextInt();
 System.out.println("number = "+number);
 
 }
-
-
-
-
 }
